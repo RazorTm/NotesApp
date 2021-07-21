@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Заметки</string>
+    <string name="my_notes">Заметки</string>
+    <string name="search_notes">Поиск</string>
+    <string name="note_title">Заголовок</string>
+    <string name="note_subtitle">Подзаголовок</string>
+    <string name="type_note_here">Напишите здесь…</string>
+    <string name="miscellaneous">Дополнительно</string>
+    <string name="pick_color">Выберите цвет</string>
+    <string name="add_image">Добавить изображение</string>
+    <string name="add_url">Добавить URL</string>
+    <string name="enter_url">Введите URL</string>
+    <string name="add">ДОБАВИТЬ</string>
+    <string name="cancel_dialog" tools:ignore="ButtonCase">ОТМЕНА</string>
+    <string name="delete_note">УДАЛИТЬ</string>
+    <string name="are_you_sure_you_want_to_delete_this_note">Вы уверены что хотите удалить заметку?</string>
+    <string name="adunitbanner">ca-app-pub-3094972701634819/3187331461</string>
+</resources>

@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Notes</string>
+    <string name="my_notes">Notes</string>
+    <string name="search_notes">Search Notes</string>
+    <string name="note_title">Title</string>
+    <string name="note_subtitle">Subtitle</string>
+    <string name="type_note_here">Type here…</string>
+    <string name="miscellaneous">Options</string>
+    <string name="pick_color">Pick Color</string>
+    <string name="add_image">Add Image</string>
+    <string name="add_url">Add URL</string>
+    <string name="enter_url">Enter URL</string>
+    <string name="add">ADD</string>
+    <string name="cancel_dialog" tools:ignore="ButtonCase">CANCEL</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="are_you_sure_you_want_to_delete_this_note">Are you sure you want to delete this note?</string>
+    <string name="adunitbanner">ca-app-pub-3094972701634819/3187331461</string>
+</resources>
