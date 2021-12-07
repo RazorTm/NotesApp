@@ -45,8 +45,7 @@ public class CreateNoteActivity extends AppCompatActivity {
 
     private ActivityCreateNoteBinding binding;
 
-//    private EditText inputNoteTitle, inputNoteSubtitle, inputNoteText;
-//    private TextView textDateTime;
+
       private String selectedNoteColor;
     private String selectedImagePath;
 
